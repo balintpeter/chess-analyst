@@ -131,7 +131,6 @@ def process_game(game, username, stockfish):
             if same_move:
                 a_move = {
                     "move_number": move_number,
-                    "turn": "white" if is_turn_white else "black",
                     "human_move": move.uci(),
                     "human_centipawn": best_move[0]["Centipawn"],
                     "engine_move": best_move[0]["Move"],
@@ -149,7 +148,6 @@ def process_game(game, username, stockfish):
 
                 a_move = {
                     "move_number": move_number,
-                    "player": "white" if is_turn_white else "black",
                     "human_move": move.uci(),
                     "human_centipawn": eval["value"] if eval["type"] == "cp" else None,
                     "engine_move": best_move[0]["Move"],
