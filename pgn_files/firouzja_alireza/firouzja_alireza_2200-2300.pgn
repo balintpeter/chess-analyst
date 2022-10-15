@@ -1,4 +1,121 @@
-﻿[Event "10. Nana Aleksandria Cup"]
+﻿[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.20"]
+[Round "1.13"]
+[White "Pilvaieh, Ali"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2075"]
+[BlackElo "2291"]
+[ECO "B23a"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nc3 a6 3. g3 b5 4. Bg2 Bb7 5. Nge2 Nc6 6. O-O e6 7. d4 cxd4 8.
+ Nxd4 Nge7 9. Nb3 Ng6 10. a4 b4 11. Nb1 a5 12. Be3 Ba6 13. Re1 Nge5 14. 
+Nc5 Nc4 15. Nxa6 Nxe3 16. Rxe3 Rxa6 17. Nd2 Bc5 18. Re1 O-O 19. Qe2 Ra7 
+20. e5 Bd4 21. Rad1 Qb6 22. Nc4 Qc5 23. Nd6 Bxb2 24. Bxc6 dxc6 25. Qc4 
+Qxc4 26. Nxc4 Bc3 27. Re2 Rc8 28. Rd6 c5 29. f4 Rb8 30. Kg2 g6 31. Re3 Bd4
+32. Rd3 Kf8 33. Kf3 Ke7 34. Ke4 h5 35. h3 Rh8 36. Kf3 Rg8 37. h4 Rb8 38. 
+Ke4 Rab7 39. Rc6 Ra8 40. Nd6 Rd7 41. Nc8+ Ke8 42. Nb6 Ra6 43. Rc8+ Rd8 44.
+ Rxd8+ Kxd8 45. Nc4 Kc7 46. Kf3 Ra8 47. Ke4 Ra6 48. Rf3 Ra7 49. Kd3 Kd7 
+50. Nd6 Kc6 51. Kc4 Rd7 52. Rd3 f6 53. Ne4 fxe5 54. Nxc5 Re7 55. Nb3 Bc3 
+56. fxe5 Kb6 57. Rd6+ Kc7 58. Nxa5 Bxe5 59. Rd3 Bc3 60. Re3 e5 61. Nb3 Kd6
+62. a5 Kc6 63. Re4 Rc7 64. Nc1 Kd6+ 65. Kd3 Ra7 66. Nb3 Kd5 67. Rc4 Rf7 
+68. Rc5+ Kd6 69. Ke4 Ra7 70. Rb5 Ra6 71. Rd5+ Kc6 72. Rd8 Kc7 73. Rf8 Rd6 
+74. Rf7+ Kc6 75. Ra7 Kb5 76. Ra8 Kc6 77. Rb8 Re6 1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.21"]
+[Round "3.4"]
+[White "Toufighi, Homayoon"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2429"]
+[BlackElo "2291"]
+[ECO "A03"]
+[EventDate "2015.01.20"]
+
+1. f4 Nf6 2. Nf3 d5 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Bd3 c5 7. O-O Nc6 8. 
+Bb5 Qb6 9. Bxc6 Qxc6 10. d3 b6 11. Qe1 Ba6 12. Nbd2 Rad8 13. Qh4 Qc8 14. 
+Ne5 d4 15. e4 Nh5 16. a4 Qc7 17. Nec4 Bc8 18. f5 a6 19. Nf3 b5 20. axb5 
+axb5 21. Ncd2 Bf6 22. Qe1 e5 23. Kh1 Qe7 24. Rg1 Bg7 25. Ra5 Bd7 26. Qa1 
+Rb8 27. Ra7 Qd6 28. Qa5 Rfc8 29. Ba3 Be8 30. fxg6 hxg6 31. Rf1 Nf4 32. Bb2
+Ne6 33. Qa2 Qc6 34. Ra1 Qd6 35. Qb1 Bc6 36. Qe1 Ra8 37. Rxa8 1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.24"]
+[Round "7.7"]
+[White "Mahjoob Zardast, Morteza"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteElo "2416"]
+[BlackElo "2291"]
+[ECO "B90a"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 Nc6 7. g4 e6 8.
+ g5 Nd7 9. Be3 Qc7 10. f4 b5 11. Qd2 Bb7 12. a3 Nc5 13. Bg2 Rc8 14. Nxc6 
+Bxc6 15. O-O-O Nd7 16. Qf2 a5 17. Rge1 b4 18. Nd5 Qb7 19. axb4 axb4 20. 
+Rd4 Nc5 21. Rxb4 Nd3+ 22. cxd3 Bxd5+ 23. Kb1 Ba2+ 24. Kxa2 Qxb4 25. f5 
+Ra8+ 26. Kb1 Qb3 27. Qd2 Qa2+ 28. Kc2 Rc8+ 0-1
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.25"]
+[Round "9.6"]
+[White "Khatibi, Meysam"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2099"]
+[BlackElo "2291"]
+[ECO "B90m"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 
+8. Qd2 Nbd7 9. O-O-O Rc8 10. f3 h5 11. Kb1 Be7 12. h3 h4 13. Bd3 b5 14. f4
+Qc7 15. Qf2 b4 16. Nd5 Nxd5 17. exd5 Bxd5 18. Bxa6 Ra8 19. Rxd5 Rxa6 20. 
+g4 O-O 21. g5 Rfa8 22. Nc1 Qc4 23. Rhd1 exf4 24. Qxf4 Rxa2 25. Nxa2 Qxa2+ 
+26. Kc1 Ne5 27. Rxe5 dxe5 28. Qxe5 Qc4 29. b3 Qc6 30. Kb1 Bf8 31. Bc1 Qa6 
+32. Bb2 Qa2+ 33. Kc1 Rc8 34. Qf5 Rc5 35. Qf3 Qa6 36. Rg1 Qg6 37. Qg2 Be7 
+38. Kb1 Rxg5 39. Qa8+ Bf8 40. Rxg5 Qxg5 41. Qf3 Qg1+ 42. Ka2 Qa7+ 43. Kb1 
+Qd7 44. c4 bxc3 45. Qxc3 Qd6 46. Qc4 Qg3 47. Qc3 Qg1+ 48. Ka2 Qa7+ 49. Kb1
+Qa6 50. Kc2 Qg6+ 51. Kd1 Be7 52. Bc1 Qd6+ 53. Ke2 Bf6 54. Qe3 Qc6 55. Bd2 
+Qg2+ 56. Kd3 Qf1+ 57. Kc2 g6 58. Qf4 Qa1 59. b4 Kg7 60. Qh6+ Kg8 61. Qf4 
+Qa4+ 62. Kd3 Qb5+ 63. Kc2 Kg7 64. Qh6+ Kg8 65. Qf4 Qc6+ 66. Kd1 Qe6 67. 
+Kc2 Qc8+ 68. Kd1 Be7 69. Qe4 Bf6 70. Qf4 Kg7 71. Qh6+ Kg8 72. Qf4 Qe6 73. 
+Kc2 Be7 74. Qf3 Qc4+ 75. Qc3 Qxc3+ 76. Kxc3 g5 77. Kd4 g4 78. hxg4 h3 79. 
+Bf4 Bxb4 80. Bh2 Kg7 81. Ke4 Kg6 82. Kf3 Be1 83. Ke2 Bc3 84. Kf2 Be1+ 85. 
+Ke2 Bh4 86. Kf3 Be1 87. Ke2 Bb4 88. Kf3 1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.27"]
+[Round "11.2"]
+[White "Darini, Pouria"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2470"]
+[BlackElo "2291"]
+[ECO "E42"]
+[EventDate "2015.01.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+ cxd5 Nxd5 9. Nxd5 exd5 10. Nf4 O-O 11. Bd3 Bf6 12. O-O Nc6 13. Be3 g6 14.
+ Bc2 Bg7 15. Rc1 Qd6 16. Qd2 Be6 17. Ba4 Rac8 18. Bxc6 Rxc6 19. Rxc6 Qxc6 
+20. Rc1 Qd7 21. h3 b6 22. Qc3 Qe7 23. Qc7 Qh4 24. Nxe6 fxe6 25. Qd7 Qf6 
+26. Rc6 Rf7 27. Qxe6 Qxe6 28. Rxe6 Rd7 29. Kf1 Kf7 30. Rc6 Bf8 31. Ke2 Ke7
+32. b4 Rd6 33. Rc7+ Rd7 34. Rc1 Kd8 35. Rc6 Be7 36. Bf4 Rb7 37. Bc1 a6 38.
+ Bd2 Kd7 39. Rc2 b5 40. Kd3 Bd6 41. Rc1 Rb8 42. h4 Bf8 43. f3 Be7 44. Be1 
+Bd6 45. Bd2 Be7 46. Rh1 h5 47. Be3 Bd8 48. Bf2 Be7 49. Rc1 Bd6 50. Rc2 Ra8
+51. Be1 Rf8 52. a4 Ra8 53. Ra2 bxa4 54. Rxa4 Bc7 55. Ra2 Bb6 56. Bg3 Kc6 
+57. Re2 Kd7 58. Re5 Kc6 59. Re6+ Kb5 60. Rxg6 a5 61. bxa5 Rxa5 62. Be5 
+Ra3+ 63. Ke2 Ba5 64. g4 Ra2+ 65. Ke3 Ra3+ 66. Kf4 Bd2+ 67. Kf5 Rxf3+ 68. 
+Ke6 Rh3 69. Kxd5 Rxh4 70. g5 Rg4 71. Bf6 h4 72. Ke5 h3 73. Rh6 Bxg5 74. 
+Bxg5 Rxg5+ 75. Kf4 Rg1 76. Rxh3 Kc4 77. Ke4 Rg4+ 1/2-1/2
+
+[Event "10. Nana Aleksandria Cup"]
 [Site "Poti GEO"]
 [Date "2015.07.14"]
 [Round "3.7"]
@@ -101,6 +218,160 @@ d5 Ne7 9. b4 a5 10. Ba3 axb4 11. Bxb4 Nd7 12. a4 h6 13. Nd2 f5 14. a5 Kh8
  Nxc8 Nxc8 28. Qb4 Rg7 29. a6 Na7 30. Qa5 b6 31. Qb4 g4 32. Kh1 Nf6 33. 
 Qe1 Nh7 34. Bd3 Nf8 35. Qe2 Ng6 36. Nd2 Nh4 37. Nc4 Qf6 38. Na3 Rbg8 39. 
 Nb5 gxf3 40. gxf3 Qg6 41. Qf1 Nxf3 0-1
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.21"]
+[Round "2.10"]
+[White "Firouzja, Alireza"]
+[Black "Tahbaz, Arash"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2196"]
+[ECO "C41z"]
+[EventDate "2015.01.20"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[WhiteFideId "12573981"]
+[BlackFideId "12528846"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8.
+ Re1 b6 9. b3 Bb7 10. Ba3 a6 11. dxe5 dxe5 12. Bxe7 Qxe7 13. Nh4 b5 14. 
+Bf1 g6 15. Qf3 Nc5 16. Qg3 Kh8 17. Nf3 Rfe8 18. axb5 Nh5 19. Qg5 f6 20. 
+Qe3 axb5 21. Rad1 Nf4 22. Rd2 Red8 23. Red1 Rxd2 24. Rxd2 Nfe6 25. h4 Rd8 
+26. Rxd8+ Qxd8 27. Ne2 Kg7 28. h5 Qd6 29. hxg6 hxg6 30. Nh4 Ng5 31. Ng3 
+Bc8 32. b4 Na6 33. c3 Be6 34. Be2 Nc7 35. Bh5 Qd7 36. Nxg6 Bf7 37. Nxe5 
+Qe6 38. Nf5+ Kh7 39. Nxf7 Nxf7 40. Bxf7 Qxf7 41. Qh3+ 1-0
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.22"]
+[Round "4.5"]
+[White "Firouzja, Alireza"]
+[Black "Darban, Morteza"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2345"]
+[ECO "B60b"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 g6 7. Bxf6 
+exf6 8. Bc4 Bg7 9. Ndb5 O-O 10. O-O f5 11. exf5 Bxf5 12. Nxd6 Bxc2 13. 
+Nxf7 Qxd1 14. Ng5+ Kh8 15. Nxd1 Bf6 16. Ne6 Rfc8 17. Ne3 Na5 18. Rac1 Nxc4
+19. Rxc2 Nxe3 20. Rxc8+ Rxc8 21. fxe3 Bxb2 22. Rf7 Bc1 23. e4 Re8 24. Nc7 
+Be3+ 25. Kf1 Rxe4 26. Nd5 Bd4 27. Rxb7 Re5 28. Rd7 Rf5+ 29. Ke1 Rf2 30. 
+Nc7 Bb6 31. Ne6 Rxg2 32. Rf7 h5 33. Rf8+ Kh7 34. Rf7+ Kh6 35. Rf8 Rg1+ 36.
+ Ke2 g5 37. Rf6+ Kh7 38. a4 g4 39. Nf4 Rh1 40. Kd3 Rxh2 41. Ke4 g3 42. 
+Rf7+ Kg8 43. Rf5 Ra2 44. Rxh5 Rxa4+ 45. Kf3 Ra3+ 46. Kg2 Kf7 47. Rh7+ Kf6 
+48. Nh5+ Kg6 49. Rh8 Bf2 50. Nf4+ Kf5 51. Nh3 Bd4 52. Re8 Be5 53. Rf8+ Kg4
+54. Rg8+ Kf5 55. Rf8+ Kg6 56. Re8 Kf6 57. Ng1 a5 58. Nf3 Ra2+ 59. Kh3 Bd6 
+60. Ra8 a4 61. Nh4 a3 62. Ra6 Ke6 63. Ng2 Kd7 64. Ra7+ Kc6 65. Ra6+ Kc7 
+0-1
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.23"]
+[Round "6.12"]
+[White "Firouzja, Alireza"]
+[Black "Shah Moradi, Mohammad"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2168"]
+[ECO "B57l"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 
+8. Bf4 Ne5 9. Be2 Be7 10. O-O a6 11. a4 O-O 12. a5 Qc7 13. Qd4 Bd7 14. 
+Rfd1 Rac8 15. Bg3 Bc6 16. h3 Rfd8 17. Qe3 Be8 18. Rd2 Nc4 19. Bxc4 Qxc4 
+20. Rad1 Qc6 21. Bh2 h6 22. Rd4 Rd7 23. Nc1 d5 24. Nd3 Rdd8 25. Ne5 Qc5 
+26. Bf4 Bf8 27. exd5 Nxd5 28. Nxd5 Rxd5 29. Rxd5 exd5 30. c3 Qxa5 31. Qg3 
+g6 32. Ng4 Qa4 33. Re1 Kh7 34. Nf6+ Kh8 35. Be5 Bg7 36. Nxd5 f6 37. Bxf6 
+Bxf6 38. Nxf6 Qb5 39. Qh4 Kg7 1-0
+
+[Event "Mashhad IRI, Men Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.25"]
+[Round "8.4"]
+[White "Firouzja, Alireza"]
+[Black "Alavi, Sayed Javad"]
+[Result "1/2-1/2"]
+[WhiteElo "2291"]
+[BlackElo "2454"]
+[ECO "C54e"]
+[EventDate "2015.01.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. O-O d6 7. Bb3 O-O 8. 
+Nbd2 Re8 9. h3 h6 10. Re1 Be6 11. Nf1 d5 12. Qe2 Qd7 13. Ng3 Rad8 14. Bc2 
+d4 15. Rd1 b5 16. Qe1 Kh7 17. Bb3 Qc8 18. Bxe6 Rxe6 19. Nf5 Bf8 20. cxd4 
+exd4 21. Qd2 Ng8 22. a3 Nge7 23. Ng3 Ng6 24. Nf5 Nge7 25. Ng3 Ng6 26. Nf5 
+Rf6 27. Qe2 Qe6 28. g4 Bd6 29. Re1 Nf4 30. Bxf4 Bxf4 31. e5 Rxf5 32. gxf5 
+Qxf5 33. Qe4 Ne7 34. Qxf5+ Nxf5 35. Re4 g5 36. Rae1 c5 37. b3 Ng7 38. b4 
+1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.25"]
+[Round "8.4"]
+[White "Firouzja, Alireza"]
+[Black "Alavi, S"]
+[Result "1/2-1/2"]
+[WhiteElo "2291"]
+[BlackElo "2454"]
+[ECO "C54e"]
+[EventDate "2015.01.20"]
+[BlackTitle "IM"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "12573981"]
+[BlackFideId "12500607"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. O-O d6 7. Bb3 O-O 8. 
+Nbd2 Re8 9. h3 h6 10. Re1 Be6 11. Nf1 d5 12. Qe2 Qd7 13. Ng3 Rad8 14. Bc2 
+d4 15. Rd1 b5 16. Qe1 Kh7 17. Bb3 Qc8 18. Bxe6 Rxe6 19. Nf5 Bf8 20. cxd4 
+exd4 21. Qd2 Ng8 22. a3 Nge7 23. Ng3 Ng6 24. Nf5 Nge7 25. Ng3 Ng6 26. Nf5 
+Rf6 27. Qe2 Qe6 28. g4 Bd6 29. Re1 Nf4 30. Bxf4 Bxf4 31. e5 Rxf5 32. gxf5 
+Qxf5 33. Qe4 Ne7 34. Qxf5+ Nxf5 35. Re4 g5 36. Rae1 c5 37. b3 Ng7 38. b4 
+1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.25"]
+[Round "8.4"]
+[White "Firouzja, Alireza"]
+[Black "Alavi, S.."]
+[Result "1/2-1/2"]
+[WhiteElo "2291"]
+[BlackElo "2454"]
+[ECO "C54e"]
+[EventDate "2015.01.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "IRI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. O-O d6 7. Bb3 O-O 8. 
+Nbd2 Re8 9. h3 h6 10. Re1 Be6 11. Nf1 d5 12. Qe2 Qd7 13. Ng3 Rad8 14. Bc2 
+d4 15. Rd1 b5 16. Qe1 Kh7 17. Bb3 Qc8 18. Bxe6 Rxe6 19. Nf5 Bf8 20. cxd4 
+exd4 21. Qd2 Ng8 22. a3 Nge7 23. Ng3 Ng6 24. Nf5 Nge7 25. Ng3 Ng6 26. Nf5 
+Rf6 27. Qe2 Qe6 28. g4 Bd6 29. Re1 Nf4 30. Bxf4 Bxf4 31. e5 Rxf5 32. gxf5 
+Qxf5 33. Qe4 Ne7 34. Qxf5+ Nxf5 35. Re4 g5 36. Rae1 c5 37. b3 Ng7 38. b4 
+1/2-1/2
+
+[Event "IRI Ch 2015"]
+[Site "Mashhad IRI"]
+[Date "2015.01.26"]
+[Round "10.7"]
+[White "Firouzja, Alireza"]
+[Black "Hosseinipour, Mehdi"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2295"]
+[ECO "B87"]
+[EventDate "2015.01.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+ Bg5 Be7 9. Qf3 Qb6 10. O-O-O O-O 11. Rhe1 Nbd7 12. Qg3 Nc5 13. Bh6 Ne8 
+14. f4 Nxb3+ 15. axb3 Bb7 16. f5 e5 17. f6 Bxf6 18. Nf5 Rd8 19. Ne3 Kh8 
+20. Ned5 Bxd5 21. Nxd5 Qa5 22. Nxf6 gxh6 23. Qh4 Qa1+ 24. Kd2 Qxb2 25. 
+Qxh6 Nxf6 26. Qxf6+ Kg8 27. Re3 Rfe8 28. Rf1 1-0
 
 [Event "10. Nana Aleksandria Cup"]
 [Site "Poti GEO"]
