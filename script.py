@@ -2,6 +2,7 @@ from time import perf_counter
 import utils
 import pandas as pd
 from stockfish import Stockfish
+import random
 
 STOCKFISH_PATH = "stockfish_15_win_x64_avx2\stockfish_15_x64_avx2.exe"
 STOCKFISH_DEPTH = 15
@@ -10,7 +11,7 @@ STOCKFISH_HASH = 8192
 
 GAME_LIMIT = 5
 
-USERNAME = "Wujs"
+USERNAME = "Gukesh D"
 
 stockfish = Stockfish(
     path=STOCKFISH_PATH,
@@ -33,8 +34,9 @@ def print_stockfish_parameters():
 
 def save_data_to_csv(data, header):
     df = pd.DataFrame(data)
+    username = USERNAME.replace(" ", "").replace(",", "")
     df.to_csv(
-        f"games/{USERNAME}/{USERNAME}_{STOCKFISH_DEPTH}_depth.csv", encoding='utf-8', mode="w" if header else 'a', header=header, index=False)
+        f"games/{username}/{username}_{STOCKFISH_DEPTH}_depth.csv", encoding='utf-8', mode="w" if header else 'a', header=header, index=False)
 
 
 # Start timer
@@ -45,9 +47,6 @@ print_stockfish_parameters()
 
 # Get games
 games = utils.get_games(USERNAME)
-
-if GAME_LIMIT is not None:
-    games = games[0:GAME_LIMIT]
 
 header = True
 for i, game in enumerate(games):
