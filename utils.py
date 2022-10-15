@@ -5,17 +5,27 @@ import chess.pgn
 import requests
 from time import perf_counter
 import uuid
-
+import os
+import random
 
 def read_games_from_pgn_file(username):
-    pgn = open(f'games/{username}/{username}.pgn')
+    path = 'pgn_files/{username}'
     games = []
-    while True:
-        game = chess.pgn.read_game(pgn)
-        if game is not None:
-            games.append(game)
-        else:
-            return games
+
+    # iterate through all file
+    for file in os.listdir(path):
+        # Check whether file is in text format or not:
+        file_path = f"{path}/{file}"
+        pgn = open(file_path, 'r', encoding='utf-8')
+        temp_games = []
+        while True:
+            game = chess.pgn.read_game(pgn)
+            if game is not None:
+                temp_games.append(game)
+            else:
+                break
+        games = games + random.sample(temp_games, 5)
+    return games
 
 
 def fetch_chesscom_games(username):
@@ -29,7 +39,6 @@ def fetch_chesscom_games(username):
 
         games = games + data["games"]
 
-    Path(f"games/{username}/").mkdir(parents=True, exist_ok=True)
     json_games = json.dumps(games)
     with open(f"games/{username}/{username}.json", "w") as outfile:
         outfile.write(json_games)
@@ -50,7 +59,8 @@ def fetch_chesscom_games(username):
 
 
 def get_games(username):
-    fetch_chesscom_games(username)
+    #fetch_chesscom_games(username)
+    Path(f"games/{username}/").mkdir(parents=True, exist_ok=True)
     games = read_games_from_pgn_file(username)
 
     return games
@@ -171,4 +181,4 @@ def process_game(game, username, stockfish):
     print(f"Elapsed time: {end_time - start_time:0.4f} seconds")
     print("---------------------------------\n")
 
-    return data
+    return
