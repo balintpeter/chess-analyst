@@ -105,6 +105,8 @@ def process_game(game, username, stockfish):
 
     board = game.board()
     moves = game.mainline_moves()
+    mainline_data = list(game.mainline())
+
     no_moves = math.floor(len(list(moves)) / 2) + 1
 
     fen = board.fen()
@@ -137,6 +139,7 @@ def process_game(game, username, stockfish):
                     "centipawn_loss": 0,
                     "engine_mate": best_move[0]["Mate"],
                     "human_mate": best_move[0]["Mate"],
+                    "remaining_clock": mainline_data[i].clock(),
                     "stockfish_depth": stockfish.depth
                 }
             else:
@@ -154,6 +157,7 @@ def process_game(game, username, stockfish):
                     "centipawn_loss": best_move[0]["Centipawn"] - eval["value"] if eval["type"] == "cp" and best_move[0]["Centipawn"] is not None else None,
                     "engine_mate": best_move[0]["Mate"],
                     "human_mate": eval["value"] if eval["type"] == "mate" else None,
+                    "remaining_clock": mainline_data[i].clock(),
                     "stockfish_depth": stockfish.depth
                 }
 
